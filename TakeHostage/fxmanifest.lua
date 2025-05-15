@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Original: Robbster'
+author 'Robbster'
 description 'Take Hostage Script with ox_target integration'
 version '2.0.0'
 
